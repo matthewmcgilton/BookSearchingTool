@@ -1,5 +1,13 @@
 # Book Searching Tool by Matthew McGilton
 
+## Preview
+![image](https://i.imgur.com/OZVIm21.png)
+
+## Book ISBNs to Try
+0451159276
+0394362152
+2903702802
+
 ## Summary
 This is a tool created using the **openlibrary.org API** which allows users to request an ISBN from the API to get relevant information such as title, author, and publisher. The tool will **save data to a JSON file** and displayes all saved books on the **frontend built using tkinter**.
 
